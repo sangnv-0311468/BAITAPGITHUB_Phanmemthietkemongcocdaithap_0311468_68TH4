@@ -13,13 +13,12 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="50" />
         </Grid.RowDefinitions>
-
-        <UserControls:Userstatus Grid.Row="2"/>
-
-        <UserControls:Usermain Grid.Row="1" />
+        
+        <Usercontrols:Userstatus Grid.Row="2"/>
+   
+        <Usercontrols:Usermain Grid.Row="1" />
 
         <Usercontrols:Usermenu Grid.Row="0"/>
-
     </Grid>
     
 </Window>

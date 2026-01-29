@@ -6,7 +6,11 @@
         xmlns:local="clr-namespace:Phanmemtinhtoanmongcoc"
         xmlns:Usercontrols="clr-namespace:Phanmemtinhtoanmongcoc.Usercontrols"
         mc:Ignorable="d"
+<<<<<<< HEAD
+         
+=======
         
+>>>>>>> main
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
@@ -15,9 +19,13 @@
             <RowDefinition Height="50" />
         </Grid.RowDefinitions>
 <<<<<<< HEAD
+        <UserControls:Userstatus Grid.Row="2"/>
+=======
+<<<<<<< HEAD
         <UserControls:Usermain Grid.Row="1" />
 =======
         <Usercontrols:Usermenu Grid.Row="0"/>
+>>>>>>> main
 >>>>>>> main
     </Grid>
     

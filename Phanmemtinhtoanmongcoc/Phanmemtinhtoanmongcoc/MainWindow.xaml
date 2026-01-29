@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Phanmemtinhtoanmongcoc"
         mc:Ignorable="d"
+         xmlns:UserControls="clr-namespace:Phanmemtinhtoanmongcoc.Usercontrols"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Grid.RowDefinitions>
@@ -12,5 +13,7 @@
             <RowDefinition Height="*" />
             <RowDefinition Height="50" />
         </Grid.RowDefinitions>
+        <UserControls:Userstatus Grid.Row="2"/>
     </Grid>
+    
 </Window>

@@ -115,5 +115,10 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\icons\Bê tông.jpg" />
+    <Resource Include="Assets\icons\địa chất.jpg" />
+    <Resource Include="Assets\images\giao diện.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

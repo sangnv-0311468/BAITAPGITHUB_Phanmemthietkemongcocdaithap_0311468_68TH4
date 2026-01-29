@@ -7,6 +7,8 @@
              mc:Ignorable="d" 
              d:DesignHeight="150" d:DesignWidth="800">
     <Grid>
+<<<<<<< HEAD
+=======
         <Ribbon>
             <RibbonTab Header="Nhập liệu">
                 <RibbonGroup Header="Thông số đất">
@@ -19,6 +21,7 @@
             </RibbonTab>
         </Ribbon>
 
+>>>>>>> main
 
     </Grid>
 </UserControl>
